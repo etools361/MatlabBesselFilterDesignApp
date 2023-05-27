@@ -10,7 +10,7 @@ win10, Matlab2021a
 
 ### 程序结构
 
-更多技术细节可以参考$^{[1][2][3][4][5][6][7]}$
+更多技术细节可以参考$^{[1][2][3][4][5][6][7][8]}$
 
 ### 特性
 基于Matlab的appdesign工具开发了一套滤波器设计软件, 主要特点是：
@@ -44,7 +44,7 @@ AC仿真结果：
 瞬态仿真结果：
 ![BPF滤波器设计最终](BPF_7th_Design_Final_TRAN_Bessel.png)
 
-程序的Matalb源码已经上传GitHub中$^{[9]}$(https://github.com/etools361/MatlabBesselFilterDesignApp)，有兴趣的同学可以下载试用体验，当然也欢迎技术交流。
+程序的Matalb源码已经上传GitHub中$^{[10]}$(https://github.com/etools361/MatlabBesselFilterDesignApp)，有兴趣的同学可以下载试用体验，当然也欢迎技术交流。
 
 
 ### 参考(ref)
@@ -55,5 +55,6 @@ AC仿真结果：
 [5] : [模拟无源滤波器设计（五）-Butterworth滤波器设计详解](https://mp.weixin.qq.com/s/pIMPIh8ize49mxXG4SHT_w) \
 [6] : [模拟无源滤波器设计（六）-Chebyshev滤波器设计详解](https://mp.weixin.qq.com/s/6b1HF81X93M9D4yfIAFROw) \
 [7] : [模拟无源滤波器设计（七）-Elliptic滤波器设计详解](https://mp.weixin.qq.com/s/6b1HF81X93M9D4yfIAFROw) \
-[8] : [欢迎关注电路设计小工具公众号](https://mp.weixin.qq.com/s/fxfEnir-hU0YvF9_CWyI6g) \
-[9] : [Matlab源码地址](https://github.com/etools361/MatlabBesselFilterDesignApp)
+[8] : [模拟无源滤波器设计（八）-Bessel滤波器设计详解](https://mp.weixin.qq.com/s/PE0A3CqseqTcnJ01mNUlhw) \
+[9] : [欢迎关注电路设计小工具公众号](https://mp.weixin.qq.com/s/fxfEnir-hU0YvF9_CWyI6g) \
+[10] : [Matlab源码地址](https://github.com/etools361/MatlabBesselFilterDesignApp)
